@@ -14,11 +14,11 @@ namespace OrtalamaHesaplama
             int sinav1 = Convert.ToInt32(TxtVize.Text);
             int sinav2 = Convert.ToInt32(TxtFinal.Text);
             int proje = Convert.ToInt32(TxtQuiz.Text);
-            int ogrenciort = ((sinav1 * 35) + (sinav2 * 50) + (proje * 15)) / 100;
+            int ogrenciort1 = ((sinav1 * 35) + (sinav2 * 50) + (proje * 15)) / 100;
 
             
 
-            listBox1.Items.Add(TxtAd.Text + " " + TxtSoyad.Text + " Ortalama: " + ogrenciort);
+            listBox1.Items.Add(TxtAd.Text + " " + TxtSoyad.Text + " Ortalama: " + ogrenciort1);
         }
 
         
