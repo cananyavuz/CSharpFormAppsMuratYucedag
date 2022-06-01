@@ -4,8 +4,8 @@ Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye Eğitim Seti (Murat Yücedağ)(U
 Bu eğitimde bulunan projeleri kendi yorumumla yeni özellikler ekleyerek yeniden yazdım.
 
 ## Projeler:
-1. KullaniciGirisPaneli
-2. BiletAlmaEkrani 
-3. OrtalamaHesaplama
-4. SinemaBüfeSatisPaneli
+1. Login Paneli Oluşturma(KullaniciGirisPaneli)
+2. Uçak Bilet Rezarvasyon Sistemi(BiletAlmaEkrani)
+3. Öğrenci Sınav Notları Hesaplama Uygulaması(OrtalamaHesaplama)
+4. Sinema Büfe Satış Uygulaması(SinemaBüfeSatisPaneli)
 
