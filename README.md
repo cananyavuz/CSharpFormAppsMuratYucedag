@@ -8,5 +8,5 @@ Bu eğitimde bulunan projeleri kendi yorumumla yeni özellikler ekleyerek yenide
 2. Uçak Bilet Rezarvasyon Sistemi(BiletAlmaEkrani)
 3. Öğrenci Sınav Notları Hesaplama Uygulaması(OrtalamaHesaplama)
 4. Sinema Büfe Satış Uygulaması(SinemaBüfeSatisPaneli)
-5. Öğrenci Sınav Durumu Hesaplama(OrtalamaHesaplamaGüncel)
+5. Öğrenci Sınav Durumu Hesaplama(OrtalamaHesaplama(Güncel))
 
