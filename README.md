@@ -25,13 +25,23 @@ Bu eğitimde bulunan projeleri kendi yorumumla yeni özellikler ekleyerek yenide
 
 ### Sinema Büfe Satış Uygulaması(SinemaBüfeSatisPaneli)
 
+Sipariş alınır.
+
 ![Ekran görüntüsü 2022-06-02 175214](https://user-images.githubusercontent.com/83670222/171659933-ced6e5d6-9e96-4640-8ca2-83fd1275738f.png)
+
+"Hesapla" butonuyla ödenmesi gereken tutar gösterilir ve bu tutar kasaya eklenir.
 
 ![Ekran görüntüsü 2022-06-02 175308](https://user-images.githubusercontent.com/83670222/171659945-c03440f9-095b-480b-86e6-57ffbfc374e6.png)
 
+Yeni bir sipariş alınır.
+
 ![Ekran görüntüsü 2022-06-02 175522](https://user-images.githubusercontent.com/83670222/171659961-82f6d460-b19a-4a06-8424-b9a5e0bd3e2f.png)
 
+"Hesapla" butonuyla ödenmesi gereken tutar gösterilir ve bu tutar kasada olan miktara eklenir.
+
 ![Ekran görüntüsü 2022-06-02 175425](https://user-images.githubusercontent.com/83670222/171659969-7e0b21e9-4fd2-454f-b874-94263af425a6.png)
+
+"Son Hesabı Çıkar" butonuyla kullanıcının yaptığı yanlış işlem sonucu eklenen tutar kasadan çıkarılır.
 
 ![Ekran görüntüsü 2022-06-02 175623](https://user-images.githubusercontent.com/83670222/171659982-22f3f275-5e8a-4bb8-8db4-620b485d8d61.png)
 
