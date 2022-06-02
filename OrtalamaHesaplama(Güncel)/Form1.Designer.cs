@@ -84,6 +84,7 @@
             this.TxtAd.Name = "TxtAd";
             this.TxtAd.Size = new System.Drawing.Size(125, 27);
             this.TxtAd.TabIndex = 2;
+            this.TxtAd.Text = "a";
             // 
             // label2
             // 
@@ -188,10 +189,11 @@
             // 
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 20;
-            this.listBox1.Location = new System.Drawing.Point(104, 389);
+            this.listBox1.Location = new System.Drawing.Point(104, 397);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(581, 144);
             this.listBox1.TabIndex = 5;
+            this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
             // pictureBox1
             // 
@@ -218,7 +220,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.RosyBrown;
-            this.ClientSize = new System.Drawing.Size(795, 664);
+            this.ClientSize = new System.Drawing.Size(795, 563);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.listBox1);
