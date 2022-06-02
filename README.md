@@ -19,6 +19,8 @@ Bu eğitimde bulunan projeleri kendi yorumumla yeni özellikler ekleyerek yenide
 
 ### Öğrenci Sınav Notları Hesaplama Uygulaması(OrtalamaHesaplama)
 
+Girilen bilgilere göre Ad Soyad ve Ortalama bilgileri yazdırılır.
+
 ![Ekran görüntüsü 2022-06-02 172719](https://user-images.githubusercontent.com/83670222/171659330-1828e63f-fc28-4c4c-b23b-525f186ed77b.png)
 
 ![Ekran görüntüsü 2022-06-02 174518](https://user-images.githubusercontent.com/83670222/171659340-7b66b873-61c7-422a-bc2c-679a782f30ed.png)
@@ -48,6 +50,10 @@ Yeni bir sipariş alınır.
 ![Ekran görüntüsü 2022-06-02 175623](https://user-images.githubusercontent.com/83670222/171659982-22f3f275-5e8a-4bb8-8db4-620b485d8d61.png)
 
 ### Öğrenci Sınav Durumu Hesaplama(OrtalamaHesaplama(Güncel))
+
+Girilen bilgilere göre Ad Soyad ve Ortalama bilgileri yazdırılır. 
+
+İlk projeden farklı olarak karar yapıları kullanılarak ortalama değerlendirilir. Karşılığı olan Harf notu ve Başarılı Başarısız bilgisi yazdırılır.
 
 ![Ekran görüntüsü 2022-06-02 172719](https://user-images.githubusercontent.com/83670222/171659397-086242be-1e67-4b40-817e-c8f5b34a362d.png)
 
