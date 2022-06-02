@@ -84,7 +84,7 @@
             this.TxtAd.Name = "TxtAd";
             this.TxtAd.Size = new System.Drawing.Size(125, 27);
             this.TxtAd.TabIndex = 2;
-            this.TxtAd.Text = "a";
+//            this.TxtAd.TextChanged += new System.EventHandler(this.TxtAd_TextChanged);
             // 
             // label2
             // 
@@ -193,7 +193,6 @@
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(581, 144);
             this.listBox1.TabIndex = 5;
-//            this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
             // pictureBox1
             // 

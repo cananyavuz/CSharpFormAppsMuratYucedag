@@ -16,3 +16,21 @@ C:\Users\CANAN\Desktop\C#\Udemy Murat Yücedağ\KullaniciGirisPaneli\obj\Debug\n
 C:\Users\CANAN\Desktop\C#\Udemy Murat Yücedağ\KullaniciGirisPaneli\obj\Debug\net6.0-windows\KullaniciGirisPaneli.pdb
 C:\Users\CANAN\Desktop\C#\Udemy Murat Yücedağ\KullaniciGirisPaneli\obj\Debug\net6.0-windows\KullaniciGirisPaneli.genruntimeconfig.cache
 C:\Users\CANAN\Desktop\C#\Udemy Murat Yücedağ\KullaniciGirisPaneli\obj\Debug\net6.0-windows\ref\KullaniciGirisPaneli.dll
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\KullaniciGirisPaneli\bin\Debug\net6.0-windows\KullaniciGirisPaneli.exe
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\KullaniciGirisPaneli\bin\Debug\net6.0-windows\KullaniciGirisPaneli.deps.json
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\KullaniciGirisPaneli\bin\Debug\net6.0-windows\KullaniciGirisPaneli.runtimeconfig.json
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\KullaniciGirisPaneli\bin\Debug\net6.0-windows\KullaniciGirisPaneli.dll
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\KullaniciGirisPaneli\bin\Debug\net6.0-windows\KullaniciGirisPaneli.pdb
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\KullaniciGirisPaneli\obj\Debug\net6.0-windows\KullaniciGirisPaneli.csproj.AssemblyReference.cache
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\KullaniciGirisPaneli\obj\Debug\net6.0-windows\KullaniciGirisPaneli.Form1.resources
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\KullaniciGirisPaneli\obj\Debug\net6.0-windows\KullaniciGirisPaneli.Properties.Resources.resources
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\KullaniciGirisPaneli\obj\Debug\net6.0-windows\KullaniciGirisPaneli.csproj.GenerateResource.cache
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\KullaniciGirisPaneli\obj\Debug\net6.0-windows\KullaniciGirisPaneli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\KullaniciGirisPaneli\obj\Debug\net6.0-windows\KullaniciGirisPaneli.AssemblyInfoInputs.cache
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\KullaniciGirisPaneli\obj\Debug\net6.0-windows\KullaniciGirisPaneli.AssemblyInfo.cs
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\KullaniciGirisPaneli\obj\Debug\net6.0-windows\KullaniciGirisPaneli.csproj.CoreCompileInputs.cache
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\KullaniciGirisPaneli\obj\Debug\net6.0-windows\KullaniciGirisPaneli.dll
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\KullaniciGirisPaneli\obj\Debug\net6.0-windows\refint\KullaniciGirisPaneli.dll
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\KullaniciGirisPaneli\obj\Debug\net6.0-windows\KullaniciGirisPaneli.pdb
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\KullaniciGirisPaneli\obj\Debug\net6.0-windows\KullaniciGirisPaneli.genruntimeconfig.cache
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\KullaniciGirisPaneli\obj\Debug\net6.0-windows\ref\KullaniciGirisPaneli.dll

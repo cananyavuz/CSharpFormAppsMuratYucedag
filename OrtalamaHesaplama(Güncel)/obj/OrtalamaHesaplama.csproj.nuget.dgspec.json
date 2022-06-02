@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CANAN\\source\\repos\\CSharpFormAppsMuratYucedag\\Yeni klasör (2)\\OrtalamaHesaplama(Güncel)\\OrtalamaHesaplama.csproj": {}
+    "C:\\Users\\CANAN\\Source\\Repos\\cananyavuz\\CSharpFormAppsMuratYucedag\\OrtalamaHesaplama(Güncel)\\OrtalamaHesaplama.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CANAN\\source\\repos\\CSharpFormAppsMuratYucedag\\Yeni klasör (2)\\OrtalamaHesaplama(Güncel)\\OrtalamaHesaplama.csproj": {
+    "C:\\Users\\CANAN\\Source\\Repos\\cananyavuz\\CSharpFormAppsMuratYucedag\\OrtalamaHesaplama(Güncel)\\OrtalamaHesaplama.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CANAN\\source\\repos\\CSharpFormAppsMuratYucedag\\Yeni klasör (2)\\OrtalamaHesaplama(Güncel)\\OrtalamaHesaplama.csproj",
+        "projectUniqueName": "C:\\Users\\CANAN\\Source\\Repos\\cananyavuz\\CSharpFormAppsMuratYucedag\\OrtalamaHesaplama(Güncel)\\OrtalamaHesaplama.csproj",
         "projectName": "OrtalamaHesaplama",
-        "projectPath": "C:\\Users\\CANAN\\source\\repos\\CSharpFormAppsMuratYucedag\\Yeni klasör (2)\\OrtalamaHesaplama(Güncel)\\OrtalamaHesaplama.csproj",
+        "projectPath": "C:\\Users\\CANAN\\Source\\Repos\\cananyavuz\\CSharpFormAppsMuratYucedag\\OrtalamaHesaplama(Güncel)\\OrtalamaHesaplama.csproj",
         "packagesPath": "C:\\Users\\CANAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CANAN\\source\\repos\\CSharpFormAppsMuratYucedag\\Yeni klasör (2)\\OrtalamaHesaplama(Güncel)\\obj\\",
+        "outputPath": "C:\\Users\\CANAN\\Source\\Repos\\cananyavuz\\CSharpFormAppsMuratYucedag\\OrtalamaHesaplama(Güncel)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

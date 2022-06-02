@@ -16,3 +16,21 @@ C:\Users\CANAN\Desktop\C#\Udemy Murat Yücedağ\BiletAlmaEkrani\obj\Debug\net6.0
 C:\Users\CANAN\Desktop\C#\Udemy Murat Yücedağ\BiletAlmaEkrani\obj\Debug\net6.0-windows\BiletAlmaEkrani.pdb
 C:\Users\CANAN\Desktop\C#\Udemy Murat Yücedağ\BiletAlmaEkrani\obj\Debug\net6.0-windows\BiletAlmaEkrani.genruntimeconfig.cache
 C:\Users\CANAN\Desktop\C#\Udemy Murat Yücedağ\BiletAlmaEkrani\obj\Debug\net6.0-windows\ref\BiletAlmaEkrani.dll
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\BiletAlmaEkrani\bin\Debug\net6.0-windows\BiletAlmaEkrani.exe
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\BiletAlmaEkrani\bin\Debug\net6.0-windows\BiletAlmaEkrani.deps.json
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\BiletAlmaEkrani\bin\Debug\net6.0-windows\BiletAlmaEkrani.runtimeconfig.json
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\BiletAlmaEkrani\bin\Debug\net6.0-windows\BiletAlmaEkrani.dll
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\BiletAlmaEkrani\bin\Debug\net6.0-windows\BiletAlmaEkrani.pdb
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\BiletAlmaEkrani\obj\Debug\net6.0-windows\BiletAlmaEkrani.csproj.AssemblyReference.cache
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\BiletAlmaEkrani\obj\Debug\net6.0-windows\BiletAlmaEkrani.Form1.resources
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\BiletAlmaEkrani\obj\Debug\net6.0-windows\BiletAlmaEkrani.Properties.Resources.resources
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\BiletAlmaEkrani\obj\Debug\net6.0-windows\BiletAlmaEkrani.csproj.GenerateResource.cache
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\BiletAlmaEkrani\obj\Debug\net6.0-windows\BiletAlmaEkrani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\BiletAlmaEkrani\obj\Debug\net6.0-windows\BiletAlmaEkrani.AssemblyInfoInputs.cache
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\BiletAlmaEkrani\obj\Debug\net6.0-windows\BiletAlmaEkrani.AssemblyInfo.cs
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\BiletAlmaEkrani\obj\Debug\net6.0-windows\BiletAlmaEkrani.csproj.CoreCompileInputs.cache
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\BiletAlmaEkrani\obj\Debug\net6.0-windows\BiletAlmaEkrani.dll
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\BiletAlmaEkrani\obj\Debug\net6.0-windows\refint\BiletAlmaEkrani.dll
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\BiletAlmaEkrani\obj\Debug\net6.0-windows\BiletAlmaEkrani.pdb
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\BiletAlmaEkrani\obj\Debug\net6.0-windows\BiletAlmaEkrani.genruntimeconfig.cache
+C:\Users\CANAN\Source\Repos\cananyavuz\CSharpFormAppsMuratYucedag\BiletAlmaEkrani\obj\Debug\net6.0-windows\ref\BiletAlmaEkrani.dll

@@ -19,6 +19,13 @@ namespace OrtalamaHesaplama
             
 
             listBox1.Items.Add(TxtAd.Text + " " + TxtSoyad.Text + " Ortalama: " + ogrenciort1);
+
+            TxtAd.Clear();
+            TxtSoyad.Clear();   
+            TxtVize.Clear();
+            TxtFinal.Clear();
+            TxtQuiz.Clear();
+            
         }
 
         
