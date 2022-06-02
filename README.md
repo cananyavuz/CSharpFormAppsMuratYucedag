@@ -11,7 +11,9 @@ Bu eğitimde bulunan projeleri kendi yorumumla yeni özellikler ekleyerek yenide
 
 ### Uçak Bilet Rezarvasyon Sistemi(BiletAlmaEkrani)
 
-![Ekran görüntüsü 2022-06-02 171926](https://user-images.githubusercontent.com/83670222/171658902-f2ca517e-e866-4732-b5e4-516846f744c8.png)
+![Ekran görüntüsü 2022-06-02 181920](https://user-images.githubusercontent.com/83670222/171664083-41f0c168-d0d1-48a8-b5b8-2118e9b6e81e.png)
+
+![Ekran görüntüsü 2022-06-02 182058](https://user-images.githubusercontent.com/83670222/171664089-82d664b9-2664-441e-a028-4568b74f5657.png)
 
 ![Ekran görüntüsü 2022-06-02 172151](https://user-images.githubusercontent.com/83670222/171658915-65c1ffe8-21aa-4ef5-aa30-a524c3aa0989.png)
 
