@@ -65,8 +65,6 @@ Girilen bilgilere göre Ad Soyad ve Ortalama bilgileri yazdırılır.
 
 ![Ekran görüntüsü 2022-06-08 010822](https://user-images.githubusercontent.com/83670222/172492533-a8f6e081-c601-4072-a6f2-4e4a283eba31.png)
 
-![Ekran görüntüsü 2022-06-08 010854](https://user-images.githubusercontent.com/83670222/172492534-f465f859-d52e-4fe9-8241-9ac51012c30d.png)
-
 ![Ekran görüntüsü 2022-06-08 011110](https://user-images.githubusercontent.com/83670222/172492535-c7dc2830-e8a8-429c-926f-d3f47a0be0c1.png)
 
 ![Ekran görüntüsü 2022-06-08 011138](https://user-images.githubusercontent.com/83670222/172492537-70d969be-3239-4187-ac23-a591d4263fdc.png)
