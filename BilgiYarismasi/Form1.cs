@@ -9,14 +9,10 @@ namespace BilgiYarismasi
             
         }
 
-        
+        int soruNo = 0, yanlis = 0,dogru=0;
 
         private void button5_Click(object sender, EventArgs e)
-        {
-            int soruNo = Convert.ToInt32(LabelSoruNo.Text);
-            int dogru = Convert.ToInt32(LabelDogru.Text);
-            int yanlis = Convert.ToInt32(LabelYanlis.Text);
-
+        { 
             soruNo++;
             LabelSoruNo.Text = soruNo.ToString();
             
@@ -34,6 +30,7 @@ namespace BilgiYarismasi
                     button3.Text = "Bursa";
                     button4.Text = "Ankara";
                     button5.Text = "Sonraki";
+                    DogruSecenek.Text = "Ankara";
                     break;
                 case 2 :
                     richTextBox1.Text = " 10 + 28 kaçtýr? ";
@@ -42,6 +39,7 @@ namespace BilgiYarismasi
                     button3.Text = "38";
                     button4.Text = "29";
                     button5.Text = "Sonraki";
+                    DogruSecenek.Text = "38";
                     break;
                 case 3 :
                     richTextBox1.Text = "Cumhuriyet kaç yýlýnda ilan edilmiþtir?";
@@ -50,14 +48,16 @@ namespace BilgiYarismasi
                     button3.Text = "1938";
                     button4.Text = "1919";
                     button5.Text = "Sonraki";
+                    DogruSecenek.Text = "1923";
                     break;
                 case 4:
-                    richTextBox1.Text = "Doðru Sayýsý : " + LabelDogru.Text + "\nYanlýþ Sayýsý : " + LabelYanlis.Text;
+                    richTextBox1.Text = "Sýnav Bitti";
                     button1.Text = " ";
                     button2.Text = " ";
                     button3.Text = " ";
                     button4.Text = " ";
                     button5.Text = "Sonuçlar";
+
                     button1.Enabled = false;
                     button2.Enabled = false;
                     button3.Enabled = false;
@@ -68,135 +68,92 @@ namespace BilgiYarismasi
             }
         }
         
-
-        private void button1_Click(object sender, EventArgs e)
+        public void butonreset()
         {
-            int soruNo = Convert.ToInt32(LabelSoruNo.Text);
-            int dogru = Convert.ToInt32(LabelDogru.Text);
-            int yanlis = Convert.ToInt32(LabelYanlis.Text);
-
-            if (button1.Text == "Ýstanbul")
-            {
-                yanlis++;
-                LabelYanlis.Text = yanlis.ToString();
-                
-            }
-            if (button1.Text == "45")
-            {
-                yanlis++;
-                LabelYanlis.Text = yanlis.ToString();
-
-            }
-            if (button1.Text == "1920")
-            {
-                yanlis++;
-                LabelYanlis.Text = yanlis.ToString();
-
-            }
             button1.Enabled = false;
             button2.Enabled = false;
             button3.Enabled = false;
             button4.Enabled = false;
             button5.Enabled = true;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+
+            if (DogruSecenek.Text == button1.Text)
+            {
+                dogru++;
+                LabelDogru.Text = Convert.ToString(dogru);
+
+            }
+            else
+            {
+                yanlis++;
+                LabelYanlis.Text = Convert.ToString(yanlis);
+            }
+            
+
+            butonreset();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            int soruNo = Convert.ToInt32(LabelSoruNo.Text);
-            int dogru = Convert.ToInt32(LabelDogru.Text);
-            int yanlis = Convert.ToInt32(LabelYanlis.Text);
-
-            if (button1.Text == "Ýzmir")
-            {
-                yanlis++;
-                LabelYanlis.Text = yanlis.ToString();
-
-            }
-            if (button1.Text == "12")
-            {
-                yanlis++;
-                LabelYanlis.Text = yanlis.ToString();
-
-            }
-            if (button1.Text == "1923")
+            if (DogruSecenek.Text == button2.Text)
             {
                 dogru++;
-                LabelDogru.Text = dogru.ToString();
+                LabelDogru.Text = Convert.ToString(dogru);
 
             }
-            button1.Enabled = false;
-            button2.Enabled = false;
-            button3.Enabled = false;
-            button4.Enabled = false;
-            button5.Enabled = true;
+            else
+            {
+                yanlis++;
+                LabelYanlis.Text = Convert.ToString(yanlis);
+            }
+
+
+            butonreset();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            int soruNo = Convert.ToInt32(LabelSoruNo.Text);
-            int dogru = Convert.ToInt32(LabelDogru.Text);
-            int yanlis = Convert.ToInt32(LabelYanlis.Text);
 
-            if (button1.Text == "Bursa")
-            {
-                yanlis++;
-                LabelYanlis.Text = yanlis.ToString();
-
-            }
-            if (button1.Text == "38")
+            if (DogruSecenek.Text == button3.Text)
             {
                 dogru++;
-                LabelDogru.Text = dogru.ToString();
+                LabelDogru.Text = Convert.ToString(dogru);
 
             }
-            if (button1.Text == "1938")
+            else
             {
                 yanlis++;
-                LabelYanlis.Text = yanlis.ToString();
-
-
+                LabelYanlis.Text = Convert.ToString(yanlis);
             }
-            button1.Enabled = false;
-            button2.Enabled = false;
-            button3.Enabled = false;
-            button4.Enabled = false;
-            button5.Enabled = true;
+
+
+            butonreset();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            int soruNo = Convert.ToInt32(LabelSoruNo.Text);
-            int dogru = Convert.ToInt32(LabelDogru.Text);
-            int yanlis = Convert.ToInt32(LabelYanlis.Text);
 
-            if (button1.Text == "Ankara")
+
+            if (DogruSecenek.Text == button4.Text)
             {
                 dogru++;
-                LabelDogru.Text = dogru.ToString();
+                LabelDogru.Text = Convert.ToString(dogru);
 
             }
-            if (button1.Text == "29")
+            else
             {
                 yanlis++;
-                LabelYanlis.Text = yanlis.ToString();
-
+                LabelYanlis.Text = Convert.ToString(yanlis);
             }
-            if (button1.Text == "1919")
-            {
-                yanlis++;
-                LabelYanlis.Text = yanlis.ToString();
 
-            }
-            button1.Enabled = false;
-            button2.Enabled = false;
-            button3.Enabled = false;
-            button4.Enabled = false;
-            button5.Enabled = true;
+
+            butonreset();
         }
 
-        private void yanlis_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
-        {
-
-        }
+        
     }
 }
