@@ -17,15 +17,6 @@ Bu eğitimde bulunan projeleri kendi yorumumla yeni özellikler ekleyerek yenide
 
 ![Ekran görüntüsü 2022-06-02 172151](https://user-images.githubusercontent.com/83670222/171658915-65c1ffe8-21aa-4ef5-aa30-a524c3aa0989.png)
 
-### Öğrenci Sınav Notları Hesaplama Uygulaması(OrtalamaHesaplama)
-
-Girilen bilgilere göre Ad Soyad ve Ortalama bilgileri yazdırılır.
-
-![Ekran görüntüsü 2022-06-02 172719](https://user-images.githubusercontent.com/83670222/171659330-1828e63f-fc28-4c4c-b23b-525f186ed77b.png)
-
-![Ekran görüntüsü 2022-06-02 174518](https://user-images.githubusercontent.com/83670222/171659340-7b66b873-61c7-422a-bc2c-679a782f30ed.png)
-
-![Ekran görüntüsü 2022-06-02 174613](https://user-images.githubusercontent.com/83670222/171659346-d711433c-3ed2-4adb-9bb8-7e1c297cac49.png)
 
 ### Sinema Büfe Satış Uygulaması(SinemaBüfeSatisPaneli)
 
@@ -53,7 +44,7 @@ Yeni bir sipariş alınır.
 
 Girilen bilgilere göre Ad Soyad ve Ortalama bilgileri yazdırılır. 
 
-İlk projeden farklı olarak karar yapıları kullanılarak ortalama değerlendirilir. Karşılığı olan Harf notu ve Başarılı Başarısız bilgisi yazdırılır.
+Karar yapıları kullanılarak ortalama değerlendirilir. Karşılığı olan Harf notu ve Başarılı Başarısız bilgisi yazdırılır.
 
 ![Ekran görüntüsü 2022-06-02 172719](https://user-images.githubusercontent.com/83670222/171659397-086242be-1e67-4b40-817e-c8f5b34a362d.png)
 
